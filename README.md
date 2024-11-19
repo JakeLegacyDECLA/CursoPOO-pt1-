@@ -16,3 +16,4 @@ ACTUALIZACIÓN 19/11/24
 + Implementación de las mecanicas curar, atacar o recargar
 + Ahora el sistema de combate es funcional
 + Implementación de la clase padre "Campeon"
++ Implementación de mapeo UML
