@@ -17,3 +17,8 @@ ACTUALIZACIÓN 19/11/24
 + Ahora el sistema de combate es funcional
 + Implementación de la clase padre "Campeon"
 + Implementación de mapeo UML
+
+ACTUALIZACIÓN 24/11/24
++ Implementación de las clases "Campeon" y "Objeto"
++ Ahora los combates son mas dinamicos, ofrecen el uso de objetos
++ Implementación de los conceptos de Herencia y Composición
