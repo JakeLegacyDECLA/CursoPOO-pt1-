@@ -4,7 +4,7 @@ Repositorio destinado al curso de 1er semestre "Programación orientada a objeto
 Proyecto - Simulador de Duelos de League of Legends -
 César Daniel Aguilar Kuri A01712823
 
-El proyecto busca simular el combate entre un equipo completo de campeones (5 personajes) contra otro (otros 5 personajes), cataloga a los personajes dentro de una posición ya sea Top, Mid, Jungla, Adc o Support. Se toma en base la vida, el maná y el ataque definitivo. Se busca hacer un proyecto que demuestre el posible uso de la programación orientada a objetos (C++) en el ambito de los videojuegos y simulaciones.
+El proyecto busca simular el combate entre un equipo de 3 campeones, cataloga a los personajes dentro de una posición ya sea Top, Mid o Adc. Se toma en base la vida, el maná y una habilidad especial. Se busca hacer un proyecto que demuestre el posible uso de la programación orientada a objetos (C++) en el ambito de los videojuegos y simulaciones.
 
 ACTUALIZACIÓN 10/11/24
 + Creación de proyecto
@@ -22,3 +22,7 @@ ACTUALIZACIÓN 24/11/24
 + Implementación de las clases "Campeon" y "Objeto"
 + Ahora los combates son mas dinamicos, ofrecen el uso de objetos
 + Implementación de los conceptos de Herencia y Composición
+
+ACTUALIZACIÓN 27/11/24
++ Implementación del diagrama de UML final
++ Ahora se randomiza la obtención de un objeto para los campeones (pueden no tener uno)
